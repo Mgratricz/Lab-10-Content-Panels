@@ -1,2 +1,3 @@
-# Lab-10-Content-Panels
-Michael Miranda CIS 3610
+# [TITLE OF YOUR WEBPAGE] 
+
+[Link to my webpage on the Web]([INCLUDE THE LINK HERE])
